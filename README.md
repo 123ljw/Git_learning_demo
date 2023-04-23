@@ -1,4 +1,6 @@
 # Git_learning_demo
 learning for working
-xiaomingA is developing.
+xiaopeng A is developing.\n
+xiaowang B is developing.\n
 i can see it.
+making confilct.
